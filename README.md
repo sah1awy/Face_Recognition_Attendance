@@ -1,6 +1,6 @@
 # Face_Recognition_Attendance
 
-This Tkinter-based application allows businesses to register new employees and efficiently track their attendance. It features a simple GUI for adding employee details, storing the data in a local database (SQLite), and marking attendance in real-time. The app also provides reports on employee attendance for managerial review. This tool is designed to streamline HR operations and ensure accurate attendance tracking.  
+This Tkinter-based application allows businesses to register new employees and efficiently track their attendance. It features a simple GUI for adding employee details, storing the data in a log file, and marking attendance in real-time. The app also provides reports on employee attendance for managerial review. This tool is designed to streamline HR operations and ensure accurate attendance tracking.  
 
 ## Project Phases
 The development of this Tkinter-based employee management system was done in several steps, ensuring both functionality and a user-friendly interface.
